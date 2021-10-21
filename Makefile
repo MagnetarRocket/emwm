@@ -5,8 +5,9 @@ MANDIR = $(PREFIX)/share/man
 MWMRCDIR = /etc/X11/mwm
 APPLRESDIR = /etc/X11/app-defaults
 
-INCDIRS = -I./Xm -I/usr/local/include 
-LIBDIRS = -L/usr/local/lib
+# make this compatible with Mac osx
+INC_DIRS = -I/opt/homebrew/include
+LIB_DIRS = -L/opt/homebrew/lib
 
 DEFINES = -DLARGECURSORS -DUNMAP_ON_RESTART \
 	-DNO_OL_COMPAT -DNO_MESSAGE_CATALOG \
