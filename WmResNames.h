@@ -170,6 +170,7 @@
 #define WmNtitleLeft            "titleLeft"
 // #define WmNzapActive            "zapActive"
 // #define WmNzapAfterTwo          "zapAfterTwo"
+// #define WmNirIcons              "irIcons"
 
 /* mwm - client specific resources: */
 
