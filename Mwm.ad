@@ -72,7 +72,7 @@ Mwm*renderTable.icon.fontStyle: Italic
 !Mwm*renderTable.variable.fontName: -adobe-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*
 
 !! Window decoration colors
-emwm*client*background: #808080
+Mwm*client*background: #808080
 Mwm*client*activeBackground: #7082B5
 Mwm*icon*activeBackground: #7082B5
 
@@ -81,7 +81,7 @@ Mwm*XClock*clientDecoration:		border
 Mwm*XLoad*clientDecoration:		border
 Mwm*xmtoolbox*clientDecoration:		title
 
-
+Mwm*useIconBox: true
 
 !
 !  END OF RESOURCE SPECIFICATIONS
