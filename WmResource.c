@@ -5724,10 +5724,10 @@ SetStdScreenResourceValues (WmScreenData *pSD)
     pSD->transientFunctions =
 		(WM_FUNC_ALL & ~(MWM_FUNC_MAXIMIZE | MWM_FUNC_MINIMIZE |
 				 MWM_FUNC_RESIZE));
-    pSD->useIconBox = False;
+    pSD->useIconBox = True;
 
     pSD->feedbackGeometry = NULL;
-    pSD->moveOpaque = False;
+    pSD->moveOpaque = True;
 
 } /* END OF FUNCTION SetStdScreenResourceValues */
 
