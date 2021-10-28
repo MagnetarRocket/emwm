@@ -74,12 +74,12 @@ Mwm*renderTable.icon.fontStyle: Italic
 !! Window decoration colors
 emwm*client*background: #808080
 Mwm*client*activeBackground: #7082B5
-Mwm*icon*activeBackground: #4C719E
+Mwm*icon*activeBackground: #7082B5
 
 !! Client decorations for common clients - SAMPLES
-!Mwm*XClock*clientDecoration:		border
-!Mwm*XLoad*clientDecoration:		border
-!Mwm*XBiff*clientDecoration:		border
+Mwm*XClock*clientDecoration:		border
+Mwm*XLoad*clientDecoration:		border
+Mwm*xmtoolbar*clientDecoration:		title
 
 
 
