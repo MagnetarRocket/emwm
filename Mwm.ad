@@ -79,7 +79,7 @@ Mwm*icon*activeBackground: #7082B5
 !! Client decorations for common clients - SAMPLES
 Mwm*XClock*clientDecoration:		border
 Mwm*XLoad*clientDecoration:		border
-Mwm*xmtoolbar*clientDecoration:		title
+Mwm*xmtoolbox*clientDecoration:		title
 
 
 
