@@ -168,6 +168,8 @@
 #define WmNtopShadowColor		"topShadowColor"
 #define WmNtopShadowPixmap		"topShadowPixmap"
 #define WmNtitleLeft            "titleLeft"
+// #define WmNzapActive            "zapActive"
+// #define WmNzapAfterTwo          "zapAfterTwo"
 
 /* mwm - client specific resources: */
 
