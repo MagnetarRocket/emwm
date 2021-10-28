@@ -65,9 +65,7 @@ Emwm*icon*activeBackground: #7082B5
 Mwm*XClock*clientDecoration:		border
 Mwm*XLoad*clientDecoration:		border
 Mwm*xmtoolbox*clientDecoration:		title
-Emwm*iconBox*clientDecoration: title
 
-Emwm*useIconBox: true
 
 !
 !  END OF RESOURCE SPECIFICATIONS
