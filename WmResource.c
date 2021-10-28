@@ -145,7 +145,7 @@ char builtinSystemMenuName[] = "_MwmWindowMenu_";
 	Maximize	_x	Alt<Key>F10	f.maximize\n\
 	Lower		_L	Alt<Key>F3	f.lower\n\
 	no-label				f.separator\n\
-	Close		_C	Alt<Key>F4	f.kill\n\
+	Quit		_Q	Alt<Key>Q	f.kill\n\
 }"
 #ifdef NO_MESSAGE_CATALOG
 char builtinSystemMenu[] = BUILTINSYSTEMMENU;
