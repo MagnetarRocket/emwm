@@ -23,21 +23,6 @@
 !		(emwm's in it's little own world, won't read mwm settings, use "emwm" instead)
 !
 
-!!
-!! NOTE: In Mwm 1.1.1 and newer, the resources 'buttonBindings' and
-!!	 'keyBindings' should not be defined in the Mwm app-defaults file.
-!!	 The defaults are set internally in Mwm to 'DefaultButtonBindings' and
-!!	 'DefaultKeyBindings' respectively.
-!!
-!!	 Users and system admin need only define the default button and key
-!!	 bindings in the appropriate mwm config file (ie. .mwmrc or
-!!	 system.mwmrc).
-!!
-!!	 The 'windowMenu' resource defaults to 'DefaultWindowMenu', and
-!!	 in Mwm 1.2 there is a default root menu that is defined as
-!!	 'DefaultRootMenu'.
-!!
-
 !Mwm*moveThreshold:		3
 
 !!
