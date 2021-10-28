@@ -19,8 +19,8 @@
 ! to the Free Software Foundation, Inc., 51 Franklin Street, Fifth
 ! Floor, Boston, MA 02110-1301 USA
 !
-!  app-defaults RESOURCE SPECIFICATIONS FOR Mwm
-!		(mwm has precedence over Mwm)
+!  app-defaults RESOURCE SPECIFICATIONS FOR emwm
+!		(emwm's in it's little own world, won't read mwm settings, use "emwm" instead)
 !
 
 !!
@@ -72,14 +72,16 @@ Mwm*renderTable.icon.fontStyle: Italic
 !Mwm*renderTable.variable.fontName: -adobe-helvetica-medium-r-normal-*-12-*-*-*-*-*-*-*
 
 !! Window decoration colors
-Mwm*client*background: #808080
-Mwm*client*activeBackground: #A59F80
+emwm*client*background: #808080
+Mwm*client*activeBackground: #7082B5
 Mwm*icon*activeBackground: #4C719E
 
 !! Client decorations for common clients - SAMPLES
 !Mwm*XClock*clientDecoration:		border
 !Mwm*XLoad*clientDecoration:		border
 !Mwm*XBiff*clientDecoration:		border
+
+
 
 !
 !  END OF RESOURCE SPECIFICATIONS
