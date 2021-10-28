@@ -6,7 +6,7 @@ WMERROR_MSG_0 I/O error on display:
 WMFUNCTION_MSG_0 Cannot restart emwm
 WMFUNCTION_MSG_1 Unable to warp to unmanaged screen %d\n
 WMGRAPHICS_MSG_0 Nil memory for graphics data
-WMIDECOR_MSG_0 Couldn't make icon to go in icon box
+WMIDECOR_MSG_0 Can't make icon to go in icon box
 WMIDECOR_MSG_1 Nil memory for icon creation
 WMIPLACE_MSG_0 Nil memory to create icon box data
 WMIMAGE_MSG_0 Invalid icon bitmap
