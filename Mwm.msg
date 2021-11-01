@@ -11,7 +11,7 @@ WMIDECOR_MSG_1 Nil memory for icon creation
 WMIPLACE_MSG_0 Nil memory to create icon box data
 WMIMAGE_MSG_0 Invalid icon bitmap
 WMIMAGE_MSG_1 Nil memory to bevel icon image
-WMIMAGE_MSG_2 Can't find bitmap or pixmap file %s
+WMIMAGE_MSG_2 Nil bitmap or pixmap file %s
 WMINITWS_MSG_0 Could not open display.
 WMINITWS_MSG_1 Nil memory for Screen data
 WMINITWS_MSG_2 Another wm is running on screen %d
@@ -41,7 +41,7 @@ WMRESPARSE_MSG_0 Open configuration file fail
 WMRESPARSE_MSG_1 Nil memory for menu accelerators
 WMRESPARSE_MSG_2 Nil memory to get LANG environment variable.
 WMRESPARSE_MSG_3 Nil memory for menu
-WMRESPARSE_MSG_4 Expected '{' after menu name
+WMRESPARSE_MSG_4 Should be '{' after menu name
 WMRESPARSE_MSG_5 Nil memory for menu item label
 WMRESPARSE_MSG_6 Nil memory for menu item
 WMRESPARSE_MSG_7 Invalid mnemonic specification
